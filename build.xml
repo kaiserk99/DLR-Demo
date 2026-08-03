@@ -5,8 +5,6 @@
 		</fileset>
 	</path>
 
-//Hello world!
-
 	<target name="clean">
 		<delete dir="build" />
 	</target>
