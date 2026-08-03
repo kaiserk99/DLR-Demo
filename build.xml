@@ -5,7 +5,7 @@
 		</fileset>
 	</path>
 
-//Documentation for Code
+//Hello world!
 
 	<target name="clean">
 		<delete dir="build" />
